@@ -31,4 +31,4 @@ The design is responsive and adapts to screen sizes:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/Udara-Dilshan/Simple_Calculator)
